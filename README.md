@@ -7,11 +7,12 @@ welcome to **my engineering journal** — circuits, code and curiosity ⚙️�
 - 💻 building projects that blend hardware + software  
 - 🧩 learning: Arduino, Proteus, Python, VHDL, and PCB design  
 - 😺 powered by sleep, chaos, and Mocha
+<img src="image2.gif" width="200"/>
 ---
 
 ### 🧠 what i’m working on
 - 🔧 coming soon...
-
+<img src="image1.gif" width="100"/>
 ---
 
 ### ☕ beyond the lab
