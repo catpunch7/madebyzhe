@@ -12,11 +12,11 @@ welcome to **my engineering journal** — circuits, code and curiosity ⚙️�
 
 ### 🧠 what i’m working on
 - 🔧 coming soon...
-
+<img src="buddy.gif" width="100"/>
 ---
 
 ### ☕ beyond the lab
-when i’m not debugging, you’ll find me sleeping, gaming, going gym or playing volleyball .
+- when i’m not debugging, you’ll find me sleeping, gaming, going gym or playing volleyball.
 <img src="image1.gif" width="100"/>
 ---
 
