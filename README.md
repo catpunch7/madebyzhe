@@ -1,5 +1,5 @@
-# 🦾 hi there! it's madebyzhe🐾 <img src="image3.gif" width="25"/>
-
+# 🦾 hi there! it's madebyzhe🐾 
+<img src="image3.gif" width="25"/>
  
 welcome to **my engineering journal** — circuits, code and curiosity ⚙️💡  
 
@@ -12,12 +12,12 @@ welcome to **my engineering journal** — circuits, code and curiosity ⚙️�
 
 ### 🧠 what i’m working on
 - 🔧 coming soon...
-<img src="image1.gif" width="100"/>
+
 ---
 
 ### ☕ beyond the lab
 when i’m not debugging, you’ll find me sleeping, gaming, going gym or playing volleyball .
-
+<img src="image1.gif" width="100"/>
 ---
 
 ✨ **check out my projects below!**  
