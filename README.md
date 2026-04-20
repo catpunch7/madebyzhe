@@ -1,4 +1,5 @@
-# 🦾 hi there! it's madebyzhe🐾 <img src="[https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif](https://tenor.com/view/pixel-cat-kitten-cat-running-running-cat-gif-18335419433319872524)" width="100"/>
+# 🦾 hi there! it's madebyzhe🐾 <img src="image3.gif" width="25"/>
+
  
 welcome to **my engineering journal** — circuits, code and curiosity ⚙️💡  
 
