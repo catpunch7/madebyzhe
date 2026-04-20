@@ -20,3 +20,5 @@ when i’m not debugging, you’ll find me sleeping, gaming, going gym or playin
 
 ✨ **check out my projects below!**  
 [🌎 portfolio](https://madebyzhe.github.io) • [💼 linkedin](https://www.linkedin.com/in/zhubaida-hossain-5754a130a/) • [🐙 github](https://github.com/madebyzhe)
+![Profile views](https://komarev.com/ghpvc/?username=madebyzhe&color=00b894&style=flat-square)
+
