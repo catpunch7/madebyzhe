@@ -11,7 +11,7 @@ welcome to **my engineering journal** — circuits, code and curiosity ⚙️�
 ---
 
 ### 🧠 what i’m working on
-- 🔧 coming soon...
+- 🔧 more coming soon...
 <img src="buddy.gif" width="75"/>
 ---
 
