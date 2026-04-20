@@ -1,5 +1,5 @@
 # 🦾 hi there! it's madebyzhe🐾 
-<img src="bere.gif" width="75"/>
+<img src="bere.gif" width="67"/>
  
 welcome to **my engineering journal** — circuits, code and curiosity ⚙️💡  
 
@@ -7,12 +7,12 @@ welcome to **my engineering journal** — circuits, code and curiosity ⚙️�
 - 💻 building projects that blend hardware + software  
 - 🧩 learning: Arduino, Proteus, Python, VHDL, and PCB design  
 - 😺 powered by sleep, chaos, and Mocha
-<img src="image 2.gif" width="100"/>
+<img src="beree.gif" width="100"/>
 ---
 
 ### 🧠 what i’m working on
 - 🔧 coming soon...
-<img src="buddy.gif" width="100"/>
+<img src="buddy.gif" width="75"/>
 ---
 
 ### ☕ beyond the lab
