@@ -1,5 +1,5 @@
 # 🦾 hi there! it's madebyzhe🐾 
-<img src="image3.gif" width="25"/>
+<img src="bere.gif" width="75"/>
  
 welcome to **my engineering journal** — circuits, code and curiosity ⚙️💡  
 
