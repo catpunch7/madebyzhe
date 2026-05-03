@@ -1,4 +1,4 @@
-# hi there! it's madebyzhe👋
+# hi there! it's madebyzhe
 
 <img src="bere.gif" width="67"/> 
  
